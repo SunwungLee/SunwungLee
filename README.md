@@ -12,7 +12,7 @@
 ![](https://img.shields.io/badge/-PyTorch-e34f26?style=flat-square&logo=PyTorch&logoColor=fff)
 ![](https://img.shields.io/badge/-TensorFlow-e5cd0c?style=flat-square&logo=TensorFlow&logoColor=fff)
 <!--
-**maudzung/maudzung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SunwungLee/SunwungLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
